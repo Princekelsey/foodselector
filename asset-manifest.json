@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/foodselector/static/css/main.0ecd6322.chunk.css",
+    "main.js": "/foodselector/static/js/main.e69b07e1.chunk.js",
+    "main.js.map": "/foodselector/static/js/main.e69b07e1.chunk.js.map",
+    "runtime~main.js": "/foodselector/static/js/runtime~main.2f8fef39.js",
+    "runtime~main.js.map": "/foodselector/static/js/runtime~main.2f8fef39.js.map",
+    "static/js/2.7769bd35.chunk.js": "/foodselector/static/js/2.7769bd35.chunk.js",
+    "static/js/2.7769bd35.chunk.js.map": "/foodselector/static/js/2.7769bd35.chunk.js.map",
+    "index.html": "/foodselector/index.html",
+    "precache-manifest.0d4dbc1ace91d4d4c1e6a09057d17865.js": "/foodselector/precache-manifest.0d4dbc1ace91d4d4c1e6a09057d17865.js",
+    "service-worker.js": "/foodselector/service-worker.js",
+    "static/css/main.0ecd6322.chunk.css.map": "/foodselector/static/css/main.0ecd6322.chunk.css.map",
+    "static/media/App.css": "/foodselector/static/media/cook-366875_1920.adcf2b79.jpg"
+  }
+}
