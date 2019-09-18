@@ -1,5 +1,6 @@
 A simple web application for user to select favourite foods and also add <br>
-there own favourite foods. Built with Reactjs
+there own favourite foods. Built with Reactjs<br>
+view with the link https://princekelsey.github.io/foodselector/.
 
 ## Available Scripts
 
